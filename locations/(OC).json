@@ -460,6 +460,7 @@
                 "name": "Hades Cup Trophy Paradox Cups",
                 "item_count": 1,
                 "visibility_rules": [
+                    "opt_hide_locations_no",
                     "opt_cups_paradox"
                 ],
                 "access_rules": [

@@ -1,8 +1,8 @@
 [
     {
         "name": "(OC)",
-        "chest_unopened_img": "/images/Items/close.png",
-        "chest_opened_img": "/images/Items/open.png",
+        "chest_unopened_img": "/images/Items/Map Icons/Closed.png",
+        "chest_opened_img": "/images/Items/Map Icons/Open.png",
         "overlay_background": "#000000",
         "access_rules": [
             "BattlefieldsofWar",
@@ -54,6 +54,8 @@
             {
                 "name": "Cerberus Bonus: Sora Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": [
                     "^$dif|easy, ^$any|ReflectElement|Guard, ^$any|FireElement|BlizzardElement|ThunderElement",
@@ -76,6 +78,8 @@
             {
                 "name": "Urns Bonus: Sora Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": [
                     "^$dif|easy, ^$any|ReflectElement|Guard, ^$any|FireElement|BlizzardElement|ThunderElement",
@@ -197,6 +201,8 @@
             {
                 "name": "Demyx Bonus: Sora Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": [
                     "^$dif|easy, ^$any|ReflectElement|Guard, ^$any|FireElement|BlizzardElement|ThunderElement",
@@ -263,6 +269,8 @@
             {
                 "name": "Pete OC Bonus: Sora Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": [
                     "^$dif|easy, ^$any|ReflectElement|Guard, ^$any|FireElement|BlizzardElement|ThunderElement, ^$any|SlideDash|FlashStep, ^$any|ValorForm|WisdomForm|LimitForm|MasterForm|final",
@@ -274,6 +282,8 @@
             {
                 "name": "Hydra Bonus: Sora Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": [
                     "^$dif|easy, ^$any|ReflectElement|Guard, ^$any|FireElement|BlizzardElement|ThunderElement, ^$any|SlideDash|FlashStep, ^$any|ValorForm|WisdomForm|LimitForm|MasterForm|final",
@@ -285,6 +295,8 @@
             {
                 "name": "Hydra Bonus: Sora Slot 2",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": [
                     "^$dif|easy, ^$any|ReflectElement|Guard, ^$any|FireElement|BlizzardElement|ThunderElement, ^$any|SlideDash|FlashStep, ^$any|ValorForm|WisdomForm|LimitForm|MasterForm|final",
@@ -307,6 +319,8 @@
             {
                 "name": "Protect Belt Pain and Panic Cup",
                 "item_count": 1,
+				"chest_unopened_img": "/images/Items/Map Icons/Closed_Cup.png",
+				"chest_opened_img": "/images/Items/Map Icons/Open_Cup.png",
                 "visibility_rules": [
                     "opt_cups_yes",
                     "opt_cups_no, opt_hide_locations_no",
@@ -326,6 +340,8 @@
             {
                 "name": "Serenity Gem Pain and Panic Cup",
                 "item_count": 1,
+				"chest_unopened_img": "/images/Items/Map Icons/Closed_Cup.png",
+				"chest_opened_img": "/images/Items/Map Icons/Open_Cup.png",
                 "visibility_rules": [
                     "opt_cups_yes",
                     "opt_cups_no, opt_hide_locations_no",
@@ -345,6 +361,8 @@
             {
                 "name": "Rising Dragon Cerberus Cup",
                 "item_count": 1,
+				"chest_unopened_img": "/images/Items/Map Icons/Closed_Cup.png",
+				"chest_opened_img": "/images/Items/Map Icons/Open_Cup.png",
                 "visibility_rules": [
                     "opt_cups_yes",
                     "opt_cups_no, opt_hide_locations_no",
@@ -364,6 +382,8 @@
             {
                 "name": "Serenity Crystal Cerberus Cup",
                 "item_count": 1,
+				"chest_unopened_img": "/images/Items/Map Icons/Closed_Cup.png",
+				"chest_opened_img": "/images/Items/Map Icons/Open_Cup.png",
                 "visibility_rules": [
                     "opt_cups_yes",
                     "opt_cups_no, opt_hide_locations_no",
@@ -383,6 +403,8 @@
             {
                 "name": "Genji Shield Titan Cup",
                 "item_count": 1,
+				"chest_unopened_img": "/images/Items/Map Icons/Closed_Cup.png",
+				"chest_opened_img": "/images/Items/Map Icons/Open_Cup.png",
                 "visibility_rules": [
                     "opt_cups_yes",
                     "opt_cups_no, opt_hide_locations_no",
@@ -402,6 +424,8 @@
             {
                 "name": "Skillful Ring Titan Cup",
                 "item_count": 1,
+				"chest_unopened_img": "/images/Items/Map Icons/Closed_Cup.png",
+				"chest_opened_img": "/images/Items/Map Icons/Open_Cup.png",
                 "visibility_rules": [
                     "opt_cups_yes",
                     "opt_cups_no, opt_hide_locations_no",
@@ -421,6 +445,8 @@
             {
                 "name": "Fatal Crest Goddess of Fate Cup",
                 "item_count": 1,
+				"chest_unopened_img": "/images/Items/Map Icons/Closed_Cup.png",
+				"chest_opened_img": "/images/Items/Map Icons/Open_Cup.png",
                 "visibility_rules": [
                     "opt_cups_yes",
                     "opt_cups_no, opt_hide_locations_no",
@@ -440,6 +466,8 @@
             {
                 "name": "Orichalcum+ Goddess of Fate Cup",
                 "item_count": 1,
+				"chest_unopened_img": "/images/Items/Map Icons/Closed_Cup.png",
+				"chest_opened_img": "/images/Items/Map Icons/Open_Cup.png",
                 "visibility_rules": [
                     "opt_cups_yes",
                     "opt_cups_no, opt_hide_locations_no",
@@ -459,6 +487,8 @@
             {
                 "name": "Hades Cup Trophy Paradox Cups",
                 "item_count": 1,
+				"chest_unopened_img": "/images/Items/Map Icons/Closed_Cup.png",
+				"chest_opened_img": "/images/Items/Map Icons/Open_Cup.png",
                 "visibility_rules": [
                     "opt_cups_paradox"
                 ],
@@ -476,6 +506,8 @@
             {
                 "name": "Demyx Bonus: Donald Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_DonaldBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [
                     "opt_dgstats_yes"
                 ],
@@ -489,6 +521,8 @@
             {
                 "name": "Pete Bonus: Goofy Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_GoofyBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [
                     "opt_dgstats_yes"
                 ],

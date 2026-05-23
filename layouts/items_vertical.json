@@ -2,6 +2,7 @@
     "items_vertical": {
         "type": "array",
         "orientation": "vertical",
+		"background": "#000000",
         "margin": "0,0",
         "content": [
             {
@@ -22,6 +23,7 @@
                                 "ProofofConnection",
                                 "ProofofNonexistence",
                                 "ProofofPeace",
+								"",
                                 "PromiseCharm",
                                 "LuckyEmblem",
                                 "Bounty"
@@ -44,6 +46,15 @@
                                 "IdentityDisk",
                                 "TornPage"
                             ],
+							[
+								"ChickenLittle",
+								"Genie",
+								"Stitch",
+                                "PeterPan",
+								"",
+								"",
+								"HadesCupTrophy"
+							],
                             [
                                 "ValorForm",
                                 "WisdomForm",
@@ -51,28 +62,21 @@
                                 "MasterForm",
                                 "FinalForm"
                             ],
-                            [
-                                "FireElement",
-                                "BlizzardElement",
-                                "ThunderElement",
-                                "MagnetElement",
-                                "ReflectElement",
-                                "CureElement"
-                            ],
-                            [
-                                "Genie",
-                                "PeterPan",
-                                "Stitch",
-                                "ChickenLittle",
-                                "HadesCupTrophy"
-                            ],
-                            [
+							[
                                 "HighJump",
                                 "QuickRun",
                                 "DodgeRoll",
                                 "AerialDodge",
                                 "Glide"
-							]
+							],
+                            [
+                                "FireElement",
+                                "BlizzardElement",
+                                "ThunderElement",
+								"MagnetElement",
+                                "ReflectElement",
+                                "CureElement"
+                            ]
                         ]
                     }
                 ]
@@ -82,6 +86,7 @@
     "abilities_vertical": {
         "type": "array",
         "orientation": "vertical",
+		"background": "#000000",
         "margin": "0,0",
         "content": [
             {
@@ -99,30 +104,21 @@
                         "item_width": 36,
                         "rows": [
 							[
+                                "Guard",
                                 "SecondChance",
                                 "OnceMore",
-                                "Guard",
-								"AerialRecovery"
+                                "SlideDash",
+								"FlashStep"
                             ],
-                            [
-                                "ComboMaster",
-                                "ComboPlus",
-                                "AirComboPlus",
-                                "FinishingPlus",
-                                "BerserkCharge",
-                                "FormBoost"
-                            ],
-                            [
-                                "LightandDarkness",
-                                "HorizontalSlash",
+							[
+                                "AerialRecovery",
                                 "FinishingLeap",
                                 "Slapshot",
-                                "FlashStep",
-                                "SlideDash"
+								"GuardBreak",
+								"Explosion"
                             ],
-                            [
-                                "GuardBreak",
-                                "Explosion",
+							[
+                                "HorizontalSlash",
                                 "AerialSweep",
                                 "AerialDive",
                                 "AerialSpiral",
@@ -133,14 +129,23 @@
                                 "AutoWisdom",
                                 "AutoLimit",
                                 "AutoMaster",
-                                "AutoFinal"
+                                "AutoFinal",
+								"LightandDarkness"
                             ],
+							[
+                                "ComboPlus",
+                                "AirComboPlus",
+                                "FinishingPlus",
+                                "ComboMaster",
+                                "BerserkCharge",
+                                "FormBoost"
+							],
                             [
-                                "TrinityLimit",
+								"TrinityLimit",
                                 "DonaldFantasia",
                                 "DonaldFlareForce",
-                                "TornadoFusion",
-                                "Teamwork"
+                                "Teamwork",
+                                "TornadoFusion"
                             ]
                         ]
                     }

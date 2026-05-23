@@ -26,7 +26,7 @@
 	{
 		"name": "Namine's Sketches",
 		"type": "toggle",
-		"img": "/images/Items/NamineSketches.png",
+		"img": "/images/Items/Visit Locking Items/NamineSketches.png",
 		"codes": "NamineSketches"
 	},
 	{
@@ -37,7 +37,7 @@
 		"max_quantity": 2,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/DisneyCastleKey.png",
+		"img": "/images/Items/Visit Locking Items/DisneyCastleKey.png",
 		"overlay_background": "#000000",
 		"codes": "DisneyCastleKey"
 	},
@@ -49,7 +49,7 @@
 		"max_quantity": 2,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/BattlefieldsofWar.png",
+		"img": "/images/Items/Visit Locking Items/BattlefieldsofWar.png",
 		"overlay_background": "#000000",
 		"codes": "BattlefieldsofWar"
 	},
@@ -61,7 +61,7 @@
 		"max_quantity": 2,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/SwordoftheAncestor.png",
+		"img": "/images/Items/Visit Locking Items/SwordoftheAncestor.png",
 		"overlay_background": "#000000",
 		"codes": "SwordoftheAncestor"
 	},
@@ -73,7 +73,7 @@
 		"max_quantity": 2,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/BeastsClaw.png",
+		"img": "/images/Items/Visit Locking Items/BeastsClaw.png",
 		"overlay_background": "#000000",
 		"codes": "BeastsClaw"
 	},
@@ -85,7 +85,7 @@
 		"max_quantity": 2,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/BoneFist.png",
+		"img": "/images/Items/Visit Locking Items/BoneFist.png",
 		"overlay_background": "#000000",
 		"codes": "BoneFist"
 	},
@@ -97,7 +97,7 @@
 		"max_quantity": 2,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/ProudFang.png",
+		"img": "/images/Items/Visit Locking Items/ProudFang.png",
 		"overlay_background": "#000000",
 		"codes": "ProudFang"
 	},
@@ -109,7 +109,7 @@
 		"max_quantity": 2,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/SkillandCrossbones.png",
+		"img": "/images/Items/Visit Locking Items/SkillandCrossbones.png",
 		"overlay_background": "#000000",
 		"codes": "SkillandCrossbones"
 	},
@@ -121,7 +121,7 @@
 		"max_quantity": 2,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/Scimitar.png",
+		"img": "/images/Items/Visit Locking Items/Scimitar.png",
 		"overlay_background": "#000000",
 		"codes": "Scimitar"
 	},
@@ -133,7 +133,7 @@
 		"max_quantity": 2,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/MembershipCard.png",
+		"img": "/images/Items/Visit Locking Items/MembershipCard.png",
 		"overlay_background": "#000000",
 		"codes": "MembershipCard"
 	},
@@ -145,7 +145,7 @@
 		"max_quantity": 3,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/IceCream.png",
+		"img": "/images/Items/Visit Locking Items/IceCream.png",
 		"overlay_background": "#000000",
 		"codes": "IceCream"
 	},
@@ -157,7 +157,7 @@
 		"max_quantity": 2,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/WaytotheDawn.png",
+		"img": "/images/Items/Visit Locking Items/WaytotheDawn.png",
 		"overlay_background": "#000000",
 		"codes": "WaytotheDawn"
 	},
@@ -169,7 +169,7 @@
 		"max_quantity": 2,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/IdentityDisk.png",
+		"img": "/images/Items/Visit Locking Items/IdentityDisk.png",
 		"overlay_background": "#000000",
 		"codes": "IdentityDisk"
 	},
@@ -181,38 +181,38 @@
 		"max_quantity": 5,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/TornPage.png",
+		"img": "/images/Items/Visit Locking Items/TornPage.png",
 		"overlay_background": "#000000",
 		"codes": "TornPage"
 	},
 	{
 		"name": "Valor Form",
 		"type": "toggle",
-		"img": "/images/Items/ValorForm.png",
+		"img": "/images/Items/Forms/ValorForm.png",
 		"codes": "ValorForm"
 	},
 	{
 		"name": "Wisdom Form",
 		"type": "toggle",
-		"img": "/images/Items/WisdomForm.png",
+		"img": "/images/Items/Forms/WisdomForm.png",
 		"codes": "WisdomForm"
 	},
 	{
 		"name": "Limit Form",
 		"type": "toggle",
-		"img": "/images/Items/LimitForm.png",
+		"img": "/images/Items/Forms/LimitForm.png",
 		"codes": "LimitForm"
 	},
 	{
 		"name": "Master Form",
 		"type": "toggle",
-		"img": "/images/Items/MasterForm.png",
+		"img": "/images/Items/Forms/MasterForm.png",
 		"codes": "MasterForm"
 	},
 	{
 		"name": "Final Form",
 		"type": "toggle",
-		"img": "/images/Items/FinalForm.png",
+		"img": "/images/Items/Forms/FinalForm.png",
 		"codes": "FinalForm"
 	},
 	{
@@ -223,7 +223,7 @@
 		"max_quantity": 3,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/FireElement.png",
+		"img": "/images/Items/Magic/FireElement.png",
 		"overlay_background": "#000000",
 		"codes": "FireElement"
 	},
@@ -235,7 +235,7 @@
 		"max_quantity": 3,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/BlizzardElement.png",
+		"img": "/images/Items/Magic/BlizzardElement.png",
 		"overlay_background": "#000000",
 		"codes": "BlizzardElement"
 	},
@@ -247,7 +247,7 @@
 		"max_quantity": 3,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/ThunderElement.png",
+		"img": "/images/Items/Magic/ThunderElement.png",
 		"overlay_background": "#000000",
 		"codes": "ThunderElement"
 	},
@@ -259,7 +259,7 @@
 		"max_quantity": 3,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/CureElement.png",
+		"img": "/images/Items/Magic/CureElement.png",
 		"overlay_background": "#000000",
 		"codes": "CureElement"
 	},
@@ -271,7 +271,7 @@
 		"max_quantity": 3,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/MagnetElement.png",
+		"img": "/images/Items/Magic/MagnetElement.png",
 		"overlay_background": "#000000",
 		"codes": "MagnetElement"
 	},
@@ -283,32 +283,32 @@
 		"max_quantity": 3,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/ReflectElement.png",
+		"img": "/images/Items/Magic/ReflectElement.png",
 		"overlay_background": "#000000",
 		"codes": "ReflectElement"
 	},
 	{
 		"name": "Genie",
 		"type": "toggle",
-		"img": "/images/Items/Genie.png",
+		"img": "/images/Items/Summons/Genie.png",
 		"codes": "Genie"
 	},
 	{
 		"name": "Peter Pan",
 		"type": "toggle",
-		"img": "/images/Items/PeterPan.png",
+		"img": "/images/Items/Summons/PeterPan.png",
 		"codes": "PeterPan"
 	},
 	{
 		"name": "Stitch",
 		"type": "toggle",
-		"img": "/images/Items/Stitch.png",
+		"img": "/images/Items/Summons/Stitch.png",
 		"codes": "Stitch"
 	},
 	{
 		"name": "Chicken Little",
 		"type": "toggle",
-		"img": "/images/Items/ChickenLittle.png",
+		"img": "/images/Items/Summons/ChickenLittle.png",
 		"codes": "ChickenLittle"
 	},
 	{
@@ -319,7 +319,7 @@
 		"max_quantity": 4,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/HighJump.png",
+		"img": "/images/Items/Growth/HighJump.png",
 		"overlay_background": "#000000",
 		"codes": "HighJump"
 	},
@@ -331,7 +331,7 @@
 		"max_quantity": 4,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/QuickRun.png",
+		"img": "/images/Items/Growth/QuickRun.png",
 		"overlay_background": "#000000",
 		"codes": "QuickRun"
 	},
@@ -343,7 +343,7 @@
 		"max_quantity": 4,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/DodgeRoll.png",
+		"img": "/images/Items/Growth/DodgeRoll.png",
 		"overlay_background": "#000000",
 		"codes": "DodgeRoll"
 	},
@@ -355,7 +355,7 @@
 		"max_quantity": 4,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/AerialDodge.png",
+		"img": "/images/Items/Growth/AerialDodge.png",
 		"overlay_background": "#000000",
 		"codes": "AerialDodge"
 	},
@@ -367,7 +367,7 @@
 		"max_quantity": 4,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/Glide.png",
+		"img": "/images/Items/Growth/Glide.png",
 		"overlay_background": "#000000",
 		"codes": "Glide"
 	},
@@ -380,7 +380,7 @@
 	{
 		"name": "Combo Master",
 		"type": "toggle",
-		"img": "/images/Items/ComboMaster.png",
+		"img": "/images/Items/Abilities/ComboMaster.png",
 		"codes": "ComboMaster"
 	},
 	{
@@ -391,7 +391,7 @@
 		"max_quantity": 2,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/ComboPlus.png",
+		"img": "/images/Items/Abilities/ComboPlus.png",
 		"overlay_background": "#000000",
 		"codes": "ComboPlus"
 	},
@@ -403,158 +403,158 @@
 		"max_quantity": 2,
 		"increment": 1,
 		"initial_quantity": 0,
-		"img": "/images/Items/AirComboPlus.png",
+		"img": "/images/Items/Abilities/AirComboPlus.png",
 		"overlay_background": "#000000",
 		"codes": "AirComboPlus"
 	},
 	{
 		"name": "Finishing Plus",
 		"type": "toggle",
-		"img": "/images/Items/FinishingPlus.png",
+		"img": "/images/Items/Abilities/FinishingPlus.png",
 		"codes": "FinishingPlus"
 	},
 	{
 		"name": "Berserk Charge",
 		"type": "toggle",
-		"img": "/images/Items/BerserkCharge.png",
+		"img": "/images/Items/Abilities/BerserkCharge.png",
 		"codes": "BerserkCharge"
 	},
 	{
 		"name": "Form Boost",
 		"type": "toggle",
-		"img": "/images/Items/FormBoost.png",
+		"img": "/images/Items/Abilities/FormBoost.png",
 		"codes": "FormBoost"
 	},
 	{
 		"name": "Light & Darkness",
 		"type": "toggle",
-		"img": "/images/Items/LightandDarkness.png",
+		"img": "/images/Items/Abilities/LightandDarkness.png",
 		"codes": "LightandDarkness"
 	},
 	{
 		"name": "Once More",
 		"type": "toggle",
-		"img": "/images/Items/OnceMore.png",
+		"img": "/images/Items/Abilities/OnceMore.png",
 		"codes": "OnceMore"
 	},
 	{
 		"name": "Second Chance",
 		"type": "toggle",
-		"img": "/images/Items/SecondChance.png",
+		"img": "/images/Items/Abilities/SecondChance.png",
 		"codes": "SecondChance"
 	},
 	{
 		"name": "Guard",
 		"type": "toggle",
-		"img": "/images/Items/Guard.png",
+		"img": "/images/Items/Abilities/Guard.png",
 		"codes": "Guard"
 	},
 	{
 		"name": "Horizontal Slash",
 		"type": "toggle",
-		"img": "/images/Items/HorizontalSlash.png",
+		"img": "/images/Items/Abilities/HorizontalSlash.png",
 		"codes": "HorizontalSlash"
 	},
 	{
 		"name": "Finishing Leap",
 		"type": "toggle",
-		"img": "/images/Items/FinishingLeap.png",
+		"img": "/images/Items/Abilities/FinishingLeap.png",
 		"codes": "FinishingLeap"
 	},
 	{
 		"name": "Slapshot",
 		"type": "toggle",
-		"img": "/images/Items/Slapshot.png",
+		"img": "/images/Items/Abilities/Slapshot.png",
 		"codes": "Slapshot"
 	},
 	{
 		"name": "Flash Step",
 		"type": "toggle",
-		"img": "/images/Items/FlashStep.png",
+		"img": "/images/Items/Abilities/FlashStep.png",
 		"codes": "FlashStep"
 	},
 	{
 		"name": "Slide Dash",
 		"type": "toggle",
-		"img": "/images/Items/SlideDash.png",
+		"img": "/images/Items/Abilities/SlideDash.png",
 		"codes": "SlideDash"
 	},
 	{
 		"name": "Guard Break",
 		"type": "toggle",
-		"img": "/images/Items/GuardBreak.png",
+		"img": "/images/Items/Abilities/GuardBreak.png",
 		"codes": "GuardBreak"
 	},
 	{
 		"name": "Explosion",
 		"type": "toggle",
-		"img": "/images/Items/Explosion.png",
+		"img": "/images/Items/Abilities/Explosion.png",
 		"codes": "Explosion"
 	},
 	{
 		"name": "Aerial Sweep",
 		"type": "toggle",
-		"img": "/images/Items/AerialSweep.png",
+		"img": "/images/Items/Abilities/AerialSweep.png",
 		"codes": "AerialSweep"
 	},
 	{
 		"name": "Aerial Dive",
 		"type": "toggle",
-		"img": "/images/Items/AerialDive.png",
+		"img": "/images/Items/Abilities/AerialDive.png",
 		"codes": "AerialDive"
 	},
 	{
 		"name": "Aerial Spiral",
 		"type": "toggle",
-		"img": "/images/Items/AerialSpiral.png",
+		"img": "/images/Items/Abilities/AerialSpiral.png",
 		"codes": "AerialSpiral"
 	},
 	{
 		"name": "Aerial Finish",
 		"type": "toggle",
-		"img": "/images/Items/AerialFinish.png",
+		"img": "/images/Items/Abilities/AerialFinish.png",
 		"codes": "AerialFinish"
 	},
 	{
 		"name": "Aerial Recovery",
 		"type": "toggle",
-		"img": "/images/Items/AerialRecovery.png",
+		"img": "/images/Items/Abilities/AerialRecovery.png",
 		"codes": "AerialRecovery"
 	},
 	{
 		"name": "Auto Valor",
 		"type": "toggle",
-		"img": "/images/Items/AutoValor.png",
+		"img": "/images/Items/Abilities/AutoValor.png",
 		"codes": "AutoValor"
 	},
 	{
 		"name": "Auto Wisdom",
 		"type": "toggle",
-		"img": "/images/Items/AutoWisdom.png",
+		"img": "/images/Items/Abilities/AutoWisdom.png",
 		"codes": "AutoWisdom"
 	},
 	{
 		"name": "Auto Limit",
 		"type": "toggle",
-		"img": "/images/Items/AutoLimit.png",
+		"img": "/images/Items/Abilities/AutoLimit.png",
 		"codes": "AutoLimit"
 	},
 	{
 		"name": "Auto Master",
 		"type": "toggle",
-		"img": "/images/Items/AutoMaster.png",
+		"img": "/images/Items/Abilities/AutoMaster.png",
 		"codes": "AutoMaster"
 	},
 	{
 		"name": "Auto Final",
 		"type": "toggle",
-		"img": "/images/Items/AutoFinal.png",
+		"img": "/images/Items/Abilities/AutoFinal.png",
 		"codes": "AutoFinal"
 	},
 	{
 		"name": "Trinity Limit",
 		"type": "toggle",
-		"img": "/images/Items/TrinityLimit.png",
+		"img": "/images/Items/Limits/TrinityLimit.png",
 		"codes": "TrinityLimit"
 	},
 	{
@@ -584,25 +584,25 @@
 	{
 		"name": "Fantasia",
 		"type": "toggle",
-		"img": "/images/Items/DonaldFantasia.png",
+		"img": "/images/Items/Limits/DonaldFantasia.png",
 		"codes": "DonaldFantasia"
 	},
 	{
 		"name": "Flare Force",
 		"type": "toggle",
-		"img": "/images/Items/DonaldFlareForce.png",
+		"img": "/images/Items/Limits/DonaldFlareForce.png",
 		"codes": "DonaldFlareForce"
 	},
 	{
 		"name": "Tornado Fusion",
 		"type": "toggle",
-		"img": "/images/Items/TornadoFusion.png",
+		"img": "/images/Items/Limits/TornadoFusion.png",
 		"codes": "TornadoFusion"
 	},
 	{
 		"name": "Teamwork",
 		"type": "toggle",
-		"img": "/images/Items/Teamwork.png",
+		"img": "/images/Items/Limits/Teamwork.png",
 		"codes": "Teamwork"
 	}
 ]

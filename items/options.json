@@ -31,24 +31,28 @@
         "stages": [
             {
                 "name": "Goal: Three Proofs",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/Goal.png",
+				"img_mods": "overlay|/images/Overlays/ThreeProofs.png",
                 "codes": "opt_goal,opt_goal_proofs"
             },
             {
                 "name": "Goal: Emblems",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/Goal.png",
+				"img_mods": "overlay|/images/Overlays/LuckyEmblem.png",
                 "codes": "opt_goal,opt_goal_emblems",
                 "inherit_codes": false
             },
             {
                 "name": "Goal: Bounties",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/Goal.png",
+				"img_mods": "overlay|/images/Overlays/Bounty.png",
                 "codes": "opt_goal,opt_goal_bounties",
                 "inherit_codes": false
             },
             {
                 "name": "Goal: Emblems and Bounties",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/Goal.png",
+				"img_mods": "overlay|/images/Overlays/LuckyEmblemAndBounty.png",
                 "codes": "opt_goal,opt_goal_mixed",
                 "inherit_codes": false
             }
@@ -62,13 +66,13 @@
         "stages": [
             {
                 "name": "Xemnas is not required",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/Xemnas.png",
                 "img_mods": "@disabled",
                 "codes": "opt_xemnas,opt_xemnas_false"
             },
             {
                 "name": "Xemnas is required",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/Xemnas.png",
                 "codes": "opt_xemnas,opt_xemnas_true",
                 "inherit_codes": false
             }
@@ -84,19 +88,22 @@
         "stages": [
             {
                 "name": "Fight Logic: Easy",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/FightLogic.png",
+				"img_mods": "overlay|/images/Overlays/Easy.png",
                 "codes": "opt_fightlogic,opt_fightlogic_easy",
                 "inherit_codes": false
             },
             {
                 "name": "Fight Logic: Normal",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/FightLogic.png",
+				"img_mods": "overlay|/images/Overlays/Normal.png",
                 "codes": "opt_fightlogic,opt_fightlogic_normal",
                 "inherit_codes": false
             },
             {
                 "name": "Fight Logic: Hard",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/FightLogic.png",
+				"img_mods": "overlay|/images/Overlays/Hard.png",
                 "codes": "opt_fightlogic,opt_fightlogic_hard",
                 "inherit_codes": false
             }
@@ -111,18 +118,21 @@
         "stages": [
             {
                 "name": "Final Form Logic: Vanilla",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/FinalForm.png",
+				"img_mods": "overlay|/images/Overlays/Chest.png",
                 "codes": "opt_finalform, opt_finalform_vanilla"
             },
             {
                 "name": "Final Form Logic: Light and Darkness",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/FinalForm.png",
+				"img_mods": "overlay|/images/Overlays/LightAndDarkness.png",
                 "codes": "opt_finalform, opt_finalform_lightanddarkness",
                 "inherit_codes": false
             },
             {
                 "name": "Final Form Logic: Get rekt",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/FinalForm.png",
+				"img_mods": "overlay|/images/Overlays/Form.png",
                 "codes": "opt_finalform, opt_finalform_none",
                 "inherit_codes": false
             }
@@ -136,13 +146,13 @@
         "stages": [
             {
                 "name": "Auto Form Logic: No",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/AutoFormLogic.png",
                 "img_mods": "@disabled",
                 "codes": "opt_autoform,opt_autoform_no"
             },
             {
                 "name": "Auto Form Logic: Yes",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/AutoFormLogic.png",
                 "codes": "opt_autoform,opt_autoform_yes",
                 "inherit_codes": false
             }
@@ -156,30 +166,30 @@
         "stages": [
             {
                 "name": "Level Depth: 50",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/LevelDepth50.png",
                 "codes": "opt_leveldepth,opt_leveldepth_50"
             },
             {
                 "name": "Level Depth: 99",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/LevelDepth99.png",
                 "codes": "opt_leveldepth,opt_leveldepth_99",
                 "inherit_codes": false
             },
             {
                 "name": "Level Depth: 50 Sanity",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/LevelDepth50Sanity.png",
                 "codes": "opt_leveldepth,opt_leveldepth_50sanity",
                 "inherit_codes": false
             },
             {
                 "name": "Level Depth: 99 Sanity",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/LevelDepth99Sanity.png",
                 "codes": "opt_leveldepth,opt_leveldepth_99sanity",
                 "inherit_codes": false
             },
             {
                 "name": "Level Depth: 1",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/LevelDepth01.png",
                 "codes": "opt_leveldepth,opt_leveldepth_1",
                 "inherit_codes": false
             }
@@ -193,13 +203,13 @@
         "stages": [
             {
                 "name": "Donald & Goofy Statsanity: No",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/DonaldGoofyStatSanity.png",
                 "img_mods": "@disabled",
                 "codes": "opt_dgstats,opt_dgstats_no"
             },
             {
                 "name": "Donald & Goofy Statsanity: Yes",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/DonaldGoofyStatSanity.png",
                 "codes": "opt_dgstats,opt_dgstats_yes",
                 "inherit_codes": false
             }
@@ -213,13 +223,13 @@
         "stages": [
             {
                 "name": "CoR Skip: No",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/CoRSkip.png",
                 "img_mods": "@disabled",
                 "codes": "opt_corskip,opt_corskip_no"
             },
             {
                 "name": "CoR Skip: Yes",
-                "img": "images/items/Teamwork.png",
+                "img": "images/items/Settings/CoRSkip.png",
                 "codes": "opt_corskip,opt_corskip_yes",
                 "inherit_codes": false
             }
@@ -234,13 +244,13 @@
         "stages": [
             {
                 "name": "Summon Levels: No",
-                "img": "images/items/Summon.png",
+                "img": "images/items/Settings/Summon.png",
                 "img_mods": "@disabled",
                 "codes": "opt_summon,opt_summon_no"
             },
             {
                 "name": "Summon Levels: Yes",
-                "img": "images/items/Summon.png",
+                "img": "images/items/Settings/Summon.png",
                 "codes": "opt_summon,opt_summon_yes",
                 "inherit_codes": false
             }
@@ -254,13 +264,13 @@
         "stages": [
             {
                 "name": "Atlantica: Excluded",
-                "img": "images/items/Atlantica.png",
+                "img": "images/items/Settings/Atlantica.png",
                 "img_mods": "@disabled",
                 "codes": "opt_atlantica,opt_atlantica_no"
             },
             {
                 "name": "Atlantica: Yes",
-                "img": "images/items/Atlantica.png",
+                "img": "images/items/Settings/Atlantica.png",
                 "codes": "opt_atlantica,opt_atlantica_yes",
                 "inherit_codes": false
             }
@@ -274,13 +284,13 @@
         "stages": [
             {
                 "name": "Superbosses: Excluded",
-                "img": "images/items/Data.png",
+                "img": "images/items/Settings/Data.png",
                 "img_mods": "@disabled",
                 "codes": "opt_superbosses,opt_superbosses_no"
             },
             {
                 "name": "Superbosses: Yes",
-                "img": "images/items/Data.png",
+                "img": "images/items/Settings/Data.png",
                 "codes": "opt_superbosses,opt_superbosses_yes",
                 "inherit_codes": false
             }
@@ -294,19 +304,21 @@
         "stages": [
             {
                 "name": "Cups: Excluded",
-                "img": "images/items/Cups.png",
+                "img": "images/items/Settings/Cups.png",
                 "img_mods": "@disabled",
                 "codes": "opt_cups,opt_cups_no"
             },
             {
                 "name": "Cups: Yes",
-                "img": "images/items/Cups.png",
+                "img": "images/items/Settings/Cups.png",
+                "img_mods": "overlay|images/overlays/Cups.png",
                 "codes": "opt_cups,opt_cups_yes",
                 "inherit_codes": false
             },
             {
                 "name": "Cups: Paradox",
-                "img": "images/items/Cups.png",
+                "img": "images/items/Settings/Cups.png",
+                "img_mods": "overlay|images/overlays/Paradox.png",
                 "codes": "opt_cups,opt_cups_paradox",
                 "inherit_codes": false
             }
@@ -320,13 +332,13 @@
         "stages": [
             {
                 "name": "Hide excluded locations: Yes",
-                "img": "images/items/Cups.png", // TODO: Better Icon
+                "img": "images/items/Settings/Excluded.png",
                 "img_mods": "@disabled",
                 "codes": "opt_hide_locations, opt_hide_locations_yes"
             },
             {
                 "name": "Hide excluded locations: No",
-                "img": "images/items/Cups.png", // TODO: Better Icon
+                "img": "images/items/Settings/Excluded.png",
                 "codes": "opt_hide_locations, opt_hide_locations_no",
                 "inherit_codes": false
             }

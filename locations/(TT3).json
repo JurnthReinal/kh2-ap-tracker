@@ -1,8 +1,8 @@
 [
     {
         "name": "(TT3)",
-        "chest_unopened_img": "/images/Items/close.png",
-        "chest_opened_img": "/images/Items/open.png",
+        "chest_unopened_img": "/images/Items/Map Icons/Closed.png",
+        "chest_opened_img": "/images/Items/Map Icons/Open.png",
         "overlay_background": "#000000",
         "access_rules": [
             "IceCream:3",
@@ -72,6 +72,8 @@
             {
                 "name": "Mansion Nobodies Bonus: Sora Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": []
             },
@@ -138,6 +140,8 @@
             {
                 "name": "Data Axel",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_Superboss.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Superboss.png",
                 "visibility_rules": [
                     "opt_superbosses_yes",
                     "opt_superbosses_no, opt_hide_locations_no"
@@ -152,6 +156,8 @@
             {
                 "name": "Mansion Nobodies Bonus: Donald Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_DonaldBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [
                     "opt_dgstats_yes"
                 ],

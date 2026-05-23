@@ -3,7 +3,7 @@
         "name": "Bounties Required",
         "type": "consumable",
         "min_quantity": 0,
-        "max_quantity": 26,
+        "max_quantity": 42,
         "increment": 1,
         "initial_quantity": 0,
         "allow_disabled": true,

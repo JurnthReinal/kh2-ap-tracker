@@ -66,7 +66,7 @@
 		"codes": "SwordoftheAncestor"
 	},
 	{
-		"name": "Beasts Claw",
+		"name": "Beast's Claw",
 		"type": "consumable",
 		"allow_disabled": true,
 		"min_quantity": 0,
@@ -574,7 +574,7 @@
 		"type": "consumable",
 		"allow_disabled": true,
 		"min_quantity": 0,
-		"max_quantity": 26,
+		"max_quantity": 42,
 		"increment": 1,
 		"initial_quantity": 0,
 		"img": "/images/Items/Bounty.png",

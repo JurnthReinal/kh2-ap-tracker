@@ -2,6 +2,7 @@
     "items_horizontal": {
         "type": "array",
         "orientation": "vertical",
+		"background": "#000000",
         "margin": "0,0",
         "content": [
             {
@@ -22,9 +23,16 @@
                                 "ProofofConnection",
                                 "ProofofNonexistence",
                                 "ProofofPeace",
+								"",
                                 "PromiseCharm",
                                 "LuckyEmblem",
-                                "Bounty"
+                                "Bounty",
+								"",
+                                "ValorForm",
+                                "WisdomForm",
+                                "LimitForm",
+                                "MasterForm",
+                                "FinalForm"
                             ],
                             [
                                 "NamineSketches",
@@ -34,38 +42,40 @@
                                 "BeastsClaw",
                                 "BoneFist",
                                 "ProudFang",
-                                "SkillandCrossbones",
+								"",
+								"HighJump",
+                                "QuickRun",
+                                "DodgeRoll",
+                                "AerialDodge",
+                                "Glide"
+                            ],
+							[
+								"SkillandCrossbones",
                                 "Scimitar",
                                 "MembershipCard",
                                 "IceCream",
                                 "WaytotheDawn",
                                 "IdentityDisk",
-                                "TornPage"
-                            ],
-                            [
-                                "ValorForm",
-                                "WisdomForm",
-                                "LimitForm",
-                                "MasterForm",
-                                "FinalForm",
-                                "FireElement",
+                                "TornPage",
+								"",
+								"",
+								"FireElement",
                                 "BlizzardElement",
-                                "ThunderElement",
-                                "MagnetElement",
+                                "ThunderElement"
+							],
+                            [
+								"ChickenLittle",
+								"Genie",
+								"Stitch",
+                                "PeterPan",
+								"",
+								"",
+								"HadesCupTrophy",
+								"",
+								"",
+								"MagnetElement",
                                 "ReflectElement",
                                 "CureElement"
-                            ],
-                            [
-                                "Genie",
-                                "PeterPan",
-                                "Stitch",
-                                "ChickenLittle",
-                                "HadesCupTrophy",
-                                "HighJump",
-                                "QuickRun",
-                                "DodgeRoll",
-                                "AerialDodge",
-                                "Glide"
                             ]
                         ]
                     }
@@ -76,6 +86,7 @@
     "abilities_horizontal": {
         "type": "array",
         "orientation": "vertical",
+		"background": "#000000",
         "margin": "0,0",
         "content": [
             {
@@ -92,50 +103,49 @@
                         "item_height": 36,
                         "item_width": 36,
                         "rows": [
-                            [
+							[
+								"Guard",
                                 "SecondChance",
                                 "OnceMore",
-                                "Guard",
-                                "ComboMaster",
-                                "ComboPlus",
+                                "SlideDash",
+								"FlashStep",
+								"",
+								"ComboPlus",
                                 "AirComboPlus",
-                                "FinishingPlus",
-                                "BerserkCharge",
-                                "FormBoost"
-								
-
-							],
+                                "FinishingPlus"
+                            ],
 							[
-                                "HorizontalSlash",
+								"AerialRecovery",
                                 "FinishingLeap",
                                 "Slapshot",
-                                "FlashStep",
-                                "SlideDash",
-                                "GuardBreak",
-                                "Explosion",
+								"GuardBreak",
+								"Explosion",
+								"",
+                                "ComboMaster",
+                                "BerserkCharge",
+                                "FormBoost"
+                            ],
+                            [
+								"HorizontalSlash",
                                 "AerialSweep",
-                                "AerialDive"
-                                
-							],
-							[
-                            
+                                "AerialDive",
                                 "AerialSpiral",
                                 "AerialFinish",
-                                "LightandDarkness",
-                                "TrinityLimit",
-								"AerialRecovery"
-							],
-							[
-                                "AutoValor",
+								"",
+								"TrinityLimit",
+		                        "DonaldFantasia",
+                                "DonaldFlareForce"
+                            ],
+                            [
+								"AutoValor",
                                 "AutoWisdom",
-                                "AutoLimit",
+								"AutoLimit",
                                 "AutoMaster",
                                 "AutoFinal",
-								"DonaldFantasia",
-                                "DonaldFlareForce",
-                                "TornadoFusion",
-                                "Teamwork"
-								
+								"",
+								"LightandDarkness",
+                                "Teamwork",
+                                "TornadoFusion"
                             ]
                         ]
                     }

@@ -1,8 +1,8 @@
 [
     {
         "name": "(SP)",
-        "chest_unopened_img": "/images/Items/close.png",
-        "chest_opened_img": "/images/Items/open.png",
+        "chest_unopened_img": "/images/Items/Map Icons/Closed.png",
+        "chest_opened_img": "/images/Items/Map Icons/Open.png",
         "overlay_background": "#000000",
         "access_rules": [
             "IdentityDisk",
@@ -54,6 +54,8 @@
             {
                 "name": "Screens Bonus: Sora Slot 1",
                 "item_count": 1,
+				"chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+				"chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": []
             },
@@ -78,6 +80,8 @@
             {
                 "name": "Hostile Program Bonus: Sora Slot 1",
                 "item_count": 1,
+				"chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+				"chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": [
                     "^$dif|easy, ^$any|DonaldFantasia|DonaldFlareForce, ReflectElement, ^$any|Stitch|ChickenLittle|PeterPan|Genie, ^$any|ValorForm|WisdomForm|MasterForm|LimitForm|final",
@@ -92,6 +96,8 @@
             {
                 "name": "Hostile Program Bonus: Sora Slot 2",
                 "item_count": 1,
+				"chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+				"chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": [
                     "^$dif|easy, ^$any|DonaldFantasia|DonaldFlareForce, ReflectElement, ^$any|Stitch|ChickenLittle|PeterPan|Genie, ^$any|ValorForm|WisdomForm|MasterForm|LimitForm|final",
@@ -120,6 +126,8 @@
             {
                 "name": "Screens Bonus: Donald Slot 1",
                 "item_count": 1,
+				"chest_unopened_img": "/images/Items/Map Icons/Closed_DonaldBonus.png",
+				"chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [
                     "opt_dgstats_yes"
                 ],
@@ -128,6 +136,8 @@
             {
                 "name": "Hostile Program Bonus: Goofy Slot 1",
                 "item_count": 1,
+				"chest_unopened_img": "/images/Items/Map Icons/Closed_GoofyBonus.png",
+				"chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [
                     "opt_dgstats_yes"
                 ],

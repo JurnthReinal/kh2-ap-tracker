@@ -1,8 +1,8 @@
 [
     {
         "name": "(BC)",
-        "chest_unopened_img": "/images/Items/close.png",
-        "chest_opened_img": "/images/Items/open.png",
+        "chest_unopened_img": "/images/Items/Map Icons/Closed.png",
+        "chest_opened_img": "/images/Items/Map Icons/Open.png",
         "overlay_background": "#000000",
         "access_rules": [
             "BeastsClaw",
@@ -91,6 +91,8 @@
             {
                 "name": "Thresholder Bonus: Sora Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": [
                     "^$dif|easy, ^$any|ValorForm|WisdomForm|LimitForm|MasterForm|final, ^$any|FireElement|BlizzardElement|ThunderElement, ^$any|ReflectElement|Guard",
@@ -201,6 +203,8 @@
             {
                 "name": "Beast Bonus: Sora Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": [
                     "^$dif|easy, ^$any|ValorForm|WisdomForm|LimitForm|MasterForm|final, ^$any|FireElement|BlizzardElement|ThunderElement, ^$any|ReflectElement|Guard",
@@ -227,6 +231,8 @@
             {
                 "name": "Dark Thorn Bonus: Sora Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": [
                     "^$dif|easy, ^$any|ValorForm|WisdomForm|LimitForm|MasterForm|final, ^$any|FireElement|BlizzardElement|ThunderElement, ^$any|ReflectElement|Guard, ^$any|SlideDash|FlashStep",
@@ -238,6 +244,8 @@
             {
                 "name": "Dark Thorn Bonus: Sora Slot 2",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": [
                     "^$dif|easy, ^$any|ValorForm|WisdomForm|LimitForm|MasterForm|final, ^$any|FireElement|BlizzardElement|ThunderElement, ^$any|ReflectElement|Guard, ^$any|SlideDash|FlashStep",
@@ -260,6 +268,8 @@
             {
                 "name": "Thresholder Bonus: Donald Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_DonaldBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [
                     "opt_dgstats_yes"
                 ],
@@ -275,6 +285,8 @@
             {
                 "name": "Beast Bonus: Goofy Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_GoofyBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [
                     "opt_dgstats_yes"
                 ],

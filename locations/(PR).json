@@ -1,8 +1,8 @@
 [
     {
         "name": "(PR)",
-        "chest_unopened_img": "/images/Items/close.png",
-        "chest_opened_img": "/images/Items/open.png",
+        "chest_unopened_img": "/images/Items/Map Icons/Closed.png",
+        "chest_opened_img": "/images/Items/Map Icons/Open.png",
         "overlay_background": "#000000",
         "access_rules": [
             "SkillandCrossbones",
@@ -72,12 +72,16 @@
             {
                 "name": "Boat Fight Bonus: Sora Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": []
             },
             {
                 "name": "Interceptor Barrels Bonus: Sora Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": []
             },
@@ -114,6 +118,8 @@
             {
                 "name": "Barbossa Bonus: Sora Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": [
                     "^$dif|easy, BlizzardElement:2, ^$any|ReflectElement|Guard",
@@ -127,6 +133,8 @@
             {
                 "name": "Barbossa Bonus: Sora Slot 2",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": [
                     "^$dif|easy, BlizzardElement:2, ^$any|ReflectElement|Guard",
@@ -153,6 +161,8 @@
             {
                 "name": "Boat Fight Bonus: Donald Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_DonaldBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [
                     "opt_dgstats_yes"
                 ],
@@ -161,6 +171,8 @@
             {
                 "name": "Barbossa Bonus: Goofy Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_GoofyBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [
                     "opt_dgstats_yes"
                 ],
@@ -176,6 +188,8 @@
             {
                 "name": "Barbossa Bonus: Goofy Slot 2",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_GoofyBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [
                     "opt_dgstats_yes"
                 ],
@@ -191,6 +205,8 @@
             {
                 "name": "Interceptor Barrels Bonus: Goofy Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_GoofyBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [
                     "opt_dgstats_yes"
                 ],

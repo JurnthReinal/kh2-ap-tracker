@@ -1,8 +1,8 @@
 [
     {
         "name": "(HT)",
-        "chest_unopened_img": "/images/Items/close.png",
-        "chest_opened_img": "/images/Items/open.png",
+        "chest_unopened_img": "/images/Items/Map Icons/Closed.png",
+        "chest_opened_img": "/images/Items/Map Icons/Open.png",
         "overlay_background": "#000000",
         "access_rules": [
             "BoneFist",
@@ -96,6 +96,8 @@
             {
                 "name": "Prison Keeper Bonus: Sora Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": [
                     "^$dif|easy, ^$any|ReflectElement|Guard, ^$any|ValorForm|WisdomForm|LimitForm|MasterForm|final, ^$any|DonaldFantasia|DonaldFlareForce|Teamwork|TornadoFusion",
@@ -109,6 +111,8 @@
             {
                 "name": "Oogie Boogie Bonus: Sora Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_SoraBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [],
                 "access_rules": [
                     "^$dif|easy, ^$any|ReflectElement|Guard, ^$any|ValorForm|WisdomForm|LimitForm|MasterForm|final, ^$any|DonaldFantasia|DonaldFlareForce|Teamwork|TornadoFusion",
@@ -135,6 +139,8 @@
             {
                 "name": "Prison Keeper Bonus: Donald Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_DonaldBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [
                     "opt_dgstats_yes"
                 ],
@@ -150,6 +156,8 @@
             {
                 "name": "Oogie Boogie Bonus: Goofy Slot 1",
                 "item_count": 1,
+                "chest_unopened_img": "/images/Items/Map Icons/Closed_GoofyBonus.png",
+                "chest_opened_img": "/images/Items/Map Icons/Open_Bonus.png",
                 "visibility_rules": [
                     "opt_dgstats_yes"
                 ],

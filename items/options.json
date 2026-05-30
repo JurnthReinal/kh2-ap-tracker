@@ -353,20 +353,20 @@
         "stages": [
             {
                 "name": "Hint Tracking - OFF",
-                "img": "/images/items/hint_tracking_off.png",// TODO: Better Icon
+                "img": "/images/items/Settings/HintTracking_OFF.png",
                 "img_mods": "@disabled",
                 "codes": "hint_tracking, hint_tracking_off",
                 "inherit_codes": false
             },
             {
                 "name": "Hint Tracking - ON",
-                "img": "/images/items/hint_tracking_on.png",
+                "img": "/images/items/Settings/HintTracking_ON.png",
                 "codes": "hint_tracking, hint_tracking_on",
                 "inherit_codes": false
             },
             {
                 "name": "Hint Tracking - ON (w/ Auto-Mark-Off)",
-                "img": "/images/items/hint_tracking_on_plus.png",
+                "img": "/images/items/Settings/HintTracking_ON_PLUS.png",
                 "codes": "hint_tracking, hint_tracking_on_plus",
                 "inherit_codes": false
             }
